@@ -1,0 +1,17 @@
+#go{
+    background-image: url(./about\ back.jpeg);
+}
+.da{
+    font-family: cursive,sans-serif;
+    font-size: 3rem;
+    color: darkkhaki;
+}
+.vc{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+    color: antiquewhite;
+}
+#yu{
+    margin-top: 100px;
+    margin-left: 100px;
+}

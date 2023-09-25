@@ -1,0 +1,27 @@
+#po{
+    background-image: url(./background\ balls.jpeg);
+}
+#cont{
+font-size: 3rem;
+font-family: cursive,sans-serif;
+color: antiquewhite;
+margin-left:30px;
+width: 400px;
+margin-top: 50px;
+}
+.ph{
+    height: 80px;
+margin-top: 60px;
+margin-left: 25px;
+border: 1px solid black;
+border-radius: 40px;
+}
+.done{
+    display: inline-block;
+}
+.done h3{
+    color: aliceblue;
+    display: inline;
+}
+
+
